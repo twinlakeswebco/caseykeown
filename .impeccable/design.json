@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-03T19:22:40.264675+00:00",
+  "title": "Design System: Casey Keown",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm Paper",
+        "tonalRamp": [
+          "oklch(15% 0.01270 86.83)",
+          "oklch(26% 0.01270 86.83)",
+          "oklch(38% 0.01270 86.83)",
+          "oklch(49% 0.01270 86.83)",
+          "oklch(61% 0.01270 86.83)",
+          "oklch(72% 0.01270 86.83)",
+          "oklch(84% 0.01270 86.83)",
+          "oklch(95% 0.01270 86.83)"
+        ]
+      },
+      "ink": {
+        "role": "primary",
+        "displayName": "Editorial Ink",
+        "tonalRamp": [
+          "oklch(15% 0.07906 262.28)",
+          "oklch(26% 0.07906 262.28)",
+          "oklch(38% 0.07906 262.28)",
+          "oklch(49% 0.07906 262.28)",
+          "oklch(61% 0.07906 262.28)",
+          "oklch(72% 0.07906 262.28)",
+          "oklch(84% 0.07906 262.28)",
+          "oklch(95% 0.07906 262.28)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "Hometown Blue",
+        "tonalRamp": [
+          "oklch(15% 0.12766 263.92)",
+          "oklch(26% 0.12766 263.92)",
+          "oklch(38% 0.12766 263.92)",
+          "oklch(49% 0.12766 263.92)",
+          "oklch(61% 0.12766 263.92)",
+          "oklch(72% 0.12766 263.92)",
+          "oklch(84% 0.12766 263.92)",
+          "oklch(95% 0.12766 263.92)"
+        ]
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Scoreboard Red",
+        "tonalRamp": [
+          "oklch(15% 0.16617 28.54)",
+          "oklch(26% 0.16617 28.54)",
+          "oklch(38% 0.16617 28.54)",
+          "oklch(49% 0.16617 28.54)",
+          "oklch(61% 0.16617 28.54)",
+          "oklch(72% 0.16617 28.54)",
+          "oklch(84% 0.16617 28.54)",
+          "oklch(95% 0.16617 28.54)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Quiet Slate",
+        "tonalRamp": [
+          "oklch(15% 0.04345 263.33)",
+          "oklch(26% 0.04345 263.33)",
+          "oklch(38% 0.04345 263.33)",
+          "oklch(49% 0.04345 263.33)",
+          "oklch(61% 0.04345 263.33)",
+          "oklch(72% 0.04345 263.33)",
+          "oklch(84% 0.04345 263.33)",
+          "oklch(95% 0.04345 263.33)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Archive Rule",
+        "tonalRamp": [
+          "oklch(15% 0.00295 128.50)",
+          "oklch(26% 0.00295 128.50)",
+          "oklch(38% 0.00295 128.50)",
+          "oklch(49% 0.00295 128.50)",
+          "oklch(61% 0.00295 128.50)",
+          "oklch(72% 0.00295 128.50)",
+          "oklch(84% 0.00295 128.50)",
+          "oklch(95% 0.00295 128.50)"
+        ]
+      },
+      "inverse-muted": {
+        "role": "neutral",
+        "displayName": "Inverse Mist",
+        "tonalRamp": [
+          "oklch(15% 0.02189 265.75)",
+          "oklch(26% 0.02189 265.75)",
+          "oklch(38% 0.02189 265.75)",
+          "oklch(49% 0.02189 265.75)",
+          "oklch(61% 0.02189 265.75)",
+          "oklch(72% 0.02189 265.75)",
+          "oklch(84% 0.02189 265.75)",
+          "oklch(95% 0.02189 265.75)"
+        ]
+      },
+      "inverse-line": {
+        "role": "neutral",
+        "displayName": "Inverse Rule",
+        "tonalRamp": [
+          "oklch(15% 0.06815 264.22)",
+          "oklch(26% 0.06815 264.22)",
+          "oklch(38% 0.06815 264.22)",
+          "oklch(49% 0.06815 264.22)",
+          "oklch(61% 0.06815 264.22)",
+          "oklch(72% 0.06815 264.22)",
+          "oklch(84% 0.06815 264.22)",
+          "oklch(95% 0.06815 264.22)"
+        ]
+      },
+      "record-line": {
+        "role": "neutral",
+        "displayName": "Record Line",
+        "tonalRamp": [
+          "oklch(15% 0.05828 266.08)",
+          "oklch(26% 0.05828 266.08)",
+          "oklch(38% 0.05828 266.08)",
+          "oklch(49% 0.05828 266.08)",
+          "oklch(61% 0.05828 266.08)",
+          "oklch(72% 0.05828 266.08)",
+          "oklch(84% 0.05828 266.08)",
+          "oklch(95% 0.05828 266.08)"
+        ]
+      },
+      "photo-mat": {
+        "role": "neutral",
+        "displayName": "Photo Mat",
+        "tonalRamp": [
+          "oklch(15% 0.00574 31.06)",
+          "oklch(26% 0.00574 31.06)",
+          "oklch(38% 0.00574 31.06)",
+          "oklch(49% 0.00574 31.06)",
+          "oklch(61% 0.00574 31.06)",
+          "oklch(72% 0.00574 31.06)",
+          "oklch(84% 0.00574 31.06)",
+          "oklch(95% 0.00574 31.06)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.00000 89.88)",
+          "oklch(26% 0.00000 89.88)",
+          "oklch(38% 0.00000 89.88)",
+          "oklch(49% 0.00000 89.88)",
+          "oklch(61% 0.00000 89.88)",
+          "oklch(72% 0.00000 89.88)",
+          "oklch(84% 0.00000 89.88)",
+          "oklch(95% 0.00000 89.88)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Personal Name",
+        "purpose": "Large name at the opening of the profile."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Major editorial sections."
+      },
+      "title": {
+        "displayName": "Press Title",
+        "purpose": "Article headlines in the archive."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base reading typography."
+      },
+      "lead": {
+        "displayName": "Biography Lead",
+        "purpose": "Serif opening paragraph."
+      },
+      "label": {
+        "displayName": "Hometown Label",
+        "purpose": "Compact uppercase hometown marker."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "button-background",
+        "value": "background .2s",
+        "purpose": "Button hover response."
+      },
+      {
+        "name": "page-scroll",
+        "value": "smooth",
+        "purpose": "Anchor navigation; set to auto with prefers-reduced-motion: reduce."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "transition: none !important",
+        "purpose": "Disable transitions when reduced motion is requested."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "min-width: 1400px"
+      },
+      {
+        "name": "compact",
+        "value": "max-width: 1000px"
+      },
+      {
+        "name": "mobile",
+        "value": "max-width: 640px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary editorial action on paper.",
+      "html": "<a class=\"ds-button\" href=\"#connect\">Connect with Casey <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:space-between;gap:35px;background:var(--blue,#17357d);color:var(--paper,#f5f1e8);text-decoration:none;font:700 14px/1.6 Arial,Helvetica,sans-serif;padding:16px 22px;min-height:52px;transition:background .2s}.ds-button:hover{background:var(--red,#b7372d);color:white}a:focus-visible{outline:3px solid var(--red,#b7372d);outline-offset:6px}svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.5;fill:none;flex-shrink:0}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}"
+    },
+    {
+      "name": "Light Button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Inverse action used inside the blue podcast band.",
+      "html": "<a class=\"ds-button ds-light\" href=\"#episode\">Listen to the episode <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:space-between;gap:35px;background:var(--blue,#17357d);color:var(--paper,#f5f1e8);text-decoration:none;font:700 14px/1.6 Arial,Helvetica,sans-serif;padding:16px 22px;min-height:52px;transition:background .2s}.ds-button:hover{background:var(--red,#b7372d);color:white}a:focus-visible{outline:3px solid var(--red,#b7372d);outline-offset:6px}svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.5;fill:none;flex-shrink:0}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}.ds-light{background:var(--paper,#f5f1e8);color:var(--blue,#17357d);white-space:nowrap}.ds-light:focus-visible{outline-color:var(--paper,#f5f1e8)}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Plain inline editorial navigation; first item hides on mobile.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"#story\">The story</a><a href=\"#press\">In the news</a><a href=\"#photos\">Photos</a><a href=\"#connect\">Connect <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:30px;color:var(--ink,#172c55);font:700 13px/1.6 Arial,Helvetica,sans-serif}.ds-nav a{color:inherit;text-decoration:none;padding-block:12px}.ds-nav a:hover{color:var(--red,#b7372d)}.ds-nav svg{width:15px;height:20px;margin-left:4px;vertical-align:middle;stroke:currentColor;stroke-width:1.5;fill:none}a:focus-visible{outline:3px solid var(--red,#b7372d);outline-offset:6px}@media(max-width:1000px){.ds-nav{gap:19px}}@media(max-width:640px){.ds-nav{gap:17px;font-size:12px}.ds-nav a:first-child,.ds-nav svg{display:none}}"
+    },
+    {
+      "name": "Press Archive Row",
+      "kind": "custom",
+      "refersTo": "press-row",
+      "description": "Ruled article link with visible publisher and date.",
+      "html": "<a class=\"ds-press\" href=\"#article\"><div class=\"ds-meta\"><span>EVANSVILLE LIVING</span><time datetime=\"2025-09-10\">SEP 10, 2025</time></div><div><h3>From First Base to First Bites</h3><p>The hometown roots, family ties, and lifelong love of sports behind Casey’s next chapter.</p></div><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-press{display:grid;grid-template-columns:210px 1fr 28px;gap:42px;padding:34px 0;border-top:1px solid var(--line,#c8c9c7);border-bottom:1px solid var(--line,#c8c9c7);color:var(--ink,#172c55);text-decoration:none;font-family:Arial,Helvetica,sans-serif}.ds-meta{display:flex;flex-direction:column;font-size:12px;gap:9px;letter-spacing:.05em}.ds-meta span{font-weight:bold}.ds-meta time{color:var(--muted,#536079)}.ds-press h3{font:800 31px/1.1 var(--display,Barlow,\"Arial Narrow\",sans-serif);margin:0 0 12px}.ds-press p{font-size:14px;line-height:1.6;color:var(--muted,#536079);max-width:65ch;margin:0}.ds-press:hover{color:var(--red,#b7372d)}.ds-press>svg{margin-top:5px}svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.5;fill:none;flex-shrink:0}a:focus-visible{outline:3px solid var(--red,#b7372d);outline-offset:6px}@media(max-width:1000px){.ds-press{grid-template-columns:160px 1fr 24px;gap:25px}}@media(max-width:640px){.ds-press{grid-template-columns:1fr 20px;gap:15px;padding-block:25px}.ds-meta{grid-column:1/-1;flex-direction:row;justify-content:space-between;gap:20px}.ds-press h3{font-size:29px}}"
+    },
+    {
+      "name": "Contact Row",
+      "kind": "custom",
+      "refersTo": "connect-row",
+      "description": "Inverse ruled contact destination on a blue band.",
+      "html": "<div class=\"ds-contact\"><a href=\"#facebook\"><span><strong>Casey Keown</strong><small>Personal Facebook · Send a message</small></span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a></div>",
+      "css": ".ds-contact{background:var(--blue,#17357d);color:var(--paper,#f5f1e8);font-family:Arial,Helvetica,sans-serif}.ds-contact a{display:flex;justify-content:space-between;align-items:center;color:inherit;text-decoration:none;padding:19px 0;border-top:1px solid #62769f;border-bottom:1px solid #62769f;gap:24px;min-height:86px}.ds-contact strong{font-size:19px}.ds-contact small{display:block;font-size:12px;color:#d6ddec;margin-top:3px}.ds-contact a:hover{color:#fff}.ds-contact a:focus-visible{outline:3px solid var(--paper,#f5f1e8);outline-offset:6px}svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.5;fill:none;flex-shrink:0}"
+    },
+    {
+      "name": "Wordmark",
+      "kind": "custom",
+      "description": "Condensed initials and red punctuation.",
+      "html": "<a class=\"ds-wordmark\" href=\"#\" aria-label=\"Back to top\">CK<span>.</span></a>",
+      "css": ".ds-wordmark{font:800 38px/1 var(--display,Barlow,\"Arial Narrow\",sans-serif);color:var(--ink,#172c55);text-decoration:none}.ds-wordmark span{color:var(--red,#b7372d)}.ds-wordmark:hover{color:var(--red,#b7372d)}a:focus-visible{outline:3px solid var(--red,#b7372d);outline-offset:6px}@media(max-width:640px){.ds-wordmark{font-size:32px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Hometown magazine",
+    "overview": "The approved “Hometown magazine” direction uses warm paper, condensed deep-blue headlines, restrained red punctuation, and a large real portrait. Its character is local, confident, and personable; the density comes from editorial type, generous gutters, and a ruled archive.\n\nDepth stays flat. Photography and full-width blue bands provide visual weight, while publisher metadata and quiet captions give the page the feel of a personal magazine profile.",
+    "keyCharacteristics": [
+      "Warm ivory paper with blue type and restrained red accents.",
+      "Condensed, heavy headlines paired with plain body copy and a serif biography lead.",
+      "Real photography with visible attribution.",
+      "Square controls, thin rules, and flat surfaces."
+    ],
+    "rules": [
+      {
+        "name": "The Red Punctuation Rule",
+        "body": "Use red for small accents and interaction feedback; blue and paper carry the large surfaces.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat Paper Rule",
+        "body": "Separate content with space, thin rules, and inverse blue bands; keep surfaces free of decorative shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use the named palette and condensed headline family.",
+      "Do keep visual headings at or below 96px.",
+      "Do retain source and photography attribution.",
+      "Do stack columns and keep press metadata horizontal on small screens.",
+      "Do preserve visible keyboard focus and reduced-motion behavior."
+    ],
+    "donts": [
+      "Don't introduce generated identity imagery.",
+      "Don't add raised cards, rounded pills, gradients, or decorative shadows to this flat editorial system.",
+      "Don't substitute restaurant menu or booking conventions for the personal profile."
+    ]
+  }
+}
